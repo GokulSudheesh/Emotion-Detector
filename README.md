@@ -18,5 +18,5 @@ Stacking conv layers one after the other has more flexibility in expressing non-
 
 ### How the AlexNet Works:
 AlexNet has a total of 8 layers consisting of 5 convolutional layers followed by 3 fully connected layers.
-<img src="https://miro.medium.com/max/3072/1*qyc21qM0oxWEuRaj-XJKcw.png" width="300" height="240">
 (src: https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637)
+<img src="https://miro.medium.com/max/3072/1*qyc21qM0oxWEuRaj-XJKcw.png" width="800" height="300">
