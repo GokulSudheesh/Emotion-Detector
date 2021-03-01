@@ -5,7 +5,7 @@ The `requirements.txt` file contains all the dependencies needed for the project
 pip install -r requirements.txt
 ```
 ## Detecting from images:
-![](github-images/1.jpeg)
+![](github-images/1.jpeg |width=100)
 ![](github-images/2.jpeg)
 ![](github-images/3.jpeg)
 
